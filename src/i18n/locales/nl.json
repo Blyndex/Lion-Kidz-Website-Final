@@ -1,0 +1,373 @@
+{
+  "nav": {
+    "home": "Home",
+    "portfolio": "Portfolio",
+    "services": "Diensten",
+    "about": "Over ons",
+    "contact": "Contact",
+    "languages": "Talen"
+  },
+  "hero": {
+    "capturing": "Het Vastleggen van Jullie",
+    "words": {
+      "memories": "Herinneringen",
+      "littleLions": "Kleine Leeuwen",
+      "adventures": "Avonturen",
+      "preciousMoments": "Kostbare Momenten",
+      "smiles": "Glimlachen",
+      "joy": "Vreugde"
+    },
+    "description": "Het vastleggen van oprechte momenten van kinderen, families en vrienden in Mauritius—het creëren van betekenisvolle, hartverwarmende herinneringen die je jaren zult koesteren.",
+    "rating": "Beoordeeld met 5/5 door 100+ gelukkige families",
+    "viewPortfolio": "Bekijk Portfolio",
+    "bookSession": "Boek Je Sessie"
+  },
+  "about": {
+    "aboutMe": "Over Mij",
+    "welcomeTitle": "Welkom bij",
+    "companyName": "Lion Kidz Photography",
+    "description1": "Lion Kidz Photography is een fotograaf in Royal Road, Malakoff, Mauritius. Ik specialiseer me in het maken van foto's van landschappen, natuur en portretten.",
+    "description2": "Het begon allemaal in 2019 toen ik begon met het maken van foto's met mijn mobiele telefoon. Sindsdien heb ik hard gewerkt om beter te worden door onderzoek te doen, te bewerken en tutorials te bekijken.",
+    "description3": "Wat Lion Kidz Photography onderscheidt is mijn passie, geduld en creativiteit.",
+    "location": "Royal Road, Malakoff, Mauritius",
+    "since": "Sinds 2019",
+    "capturingMemories": "Herinneringen Vastleggen",
+    "learnMore": "Meer over mij leren"
+  },
+  "services": {
+    "title": "Wat We",
+    "titleHighlight": "Aanbieden",
+    "subtitle": "Van speelse kinderportretten tot hartverwarmende familiesessies, we bieden een scala aan fotografiediensten op maat om je kostbaarste momenten vast te leggen.",
+    "items": {
+      "natureExperience": {
+        "title": "Natuurervaring",
+        "description": "Verken prachtige buitenlocaties met een professionele fotograaf om natuurlijke schoonheid vast te leggen."
+      },
+      "classicPortraits": {
+        "title": "Klassieke Portretten",
+        "description": "Tijdloze studio of locatie portretten met professionele styling en regie."
+      },
+      "essentialStory": {
+        "title": "Essentieel Verhaal",
+        "description": "Familie, verloving of portretten op maat om je unieke verhaal prachtig te vertellen."
+      },
+      "signatureStory": {
+        "title": "Handtekening Verhaal",
+        "description": "Uitgebreide sessie met meer variatie, meerdere locaties en uitgebreide dekking."
+      }
+    },
+    "learnMore": "Meer leren →",
+    "viewAll": "Bekijk alle diensten"
+  },
+  "languages": {
+    "en": "English",
+    "fr": "Français",
+    "es": "Español",
+    "it": "Italiano",
+    "nl": "Nederlands"
+  },
+  "featureBoxes": {
+    "title": "Onze",
+    "titleHighlight": "Waarden",
+    "subtitle": "De kernprincipes die onze benadering leiden bij het vastleggen van je kostbaarste momenten.",
+    "passion": {
+      "title": "Passie",
+      "description": "Elke foto weerspiegelt onze liefde voor het vastleggen van het leven's mooie momenten"
+    },
+    "patience": {
+      "title": "Geduld", 
+      "description": "We nemen de tijd die nodig is om authentieke, natuurlijke uitdrukkingen vast te leggen"
+    },
+    "creativity": {
+      "title": "Creativiteit",
+      "description": "Unieke perspectieven en artistieke visie in elke foto"
+    },
+    "socialMedia": {
+      "title": "Social Media Management",
+      "description": "Ervaren en gekwalificeerde social media management services om je online aanwezigheid te verbeteren."
+    }
+  },
+  "socialMediaManagement": {
+    "title": "Social Media",
+    "titleHighlight": "Management",
+    "subtitle": "Gekwalificeerd en ervaren social media management voor bedrijven en creators",
+    "photography": {
+      "title": "Fotografie Integratie",
+      "description": "Combineer prachtige fotografie met strategische content om uw visuele impact te maximaliseren."
+    },
+    "growth": {
+      "title": "Groei Strategie", 
+      "description": "Data-gedreven strategieën om uw volgers, betrokkenheid en merkbekendheid te verhogen."
+    },
+    "engagement": {
+      "title": "Community Betrokkenheid",
+      "description": "Bouw betekenisvolle verbindingen met uw publiek door authentieke interacties."
+    },
+    "cta": {
+      "title": "Klaar om te Groeien?",
+      "description": "Laten we samen uw social media aanwezigheid transformeren",
+      "experience": "Ervaring",
+      "years": "5+ Jaar",
+      "button": "Start Vandaag"
+    }
+  },
+  "portfolio": {
+    "title": "Ons",
+    "titleHighlight": "Portfolio",
+    "subtitle": "Ontdek de magie die we creëren door onze lens - authentieke momenten prachtig vastgelegd.",
+    "viewFullPortfolio": "Bekijk Volledig Portfolio"
+  },
+  "testimonials": {
+    "title": "Wat",
+    "titleHighlight": "Klanten",
+    "titleEnd": "Zeggen",
+    "subtitle": "Geloof ons niet zomaar op ons woord - hoor van de geweldige klanten die Lion Kidz Photography hebben ervaren.",
+    "readMore": "lees meer",
+    "reviewBy": "Beoordeling door"
+  },
+  "instagram": {
+    "title": "Volg Onze Reis",
+    "description": "Blijf verbonden met ons laatste werk en achter-de-schermen momenten op Instagram",
+    "followButton": "Volg @dino_alexandre24"
+  },
+  "footer": {
+    "description": "Het vastleggen van kostbare momenten en het creëren van mooie herinneringen voor families in heel Mauritius. Gespecialiseerd in kinderen-, familie- en evenementenfotografie met een speelse maar professionele aanpak.",
+    "quickLinks": "Snelle Links",
+    "getInTouch": "Neem Contact Op",
+    "businessHours": "Openingstijden: Ma-Za 9:00-18:00 (Mauritius Tijd)",
+    "copyright": "© 2024 Lion Kidz Photography. Alle rechten voorbehouden.",
+    "madeBy": "Gemaakt door",
+    "privacyPolicy": "Privacybeleid",
+    "termsOfService": "Servicevoorwaarden"
+  },
+  "portfolioPage": {
+    "title": "Ons",
+    "titleHighlight": "Portfolio",
+    "description1": "Verken onze collectie van prachtige momenten vastgelegd in heel Mauritius.",
+    "description2": "Elke afbeelding vertelt een uniek verhaal van liefde, vreugde en kostbare herinneringen.",
+    "professionalPhotography": "Professionele Fotografie",
+    "mauritiusBased": "Gevestigd in Mauritius",
+    "filters": {
+      "all": "Al het Werk",
+      "kids": "Kinderen",
+      "family": "Familie",
+      "events": "Evenementen",
+      "newborn": "Pasgeboren"
+    },
+    "items": {
+      "joyfulChildhood": "Vreugdevolle Kindermomenten",
+      "beautifulFamily": "Prachtig Familieportret",
+      "playfulAdventures": "Speelse Avonturen",
+      "birthdayCelebration": "Verjaardagsviering",
+      "familyLove": "Familieliefde",
+      "preciousNewLife": "Kostbaar Nieuw Leven"
+    },
+    "cta": {
+      "title": "Klaar om",
+      "titleHighlight": "Jouw Verhaal te Creëren?",
+      "description": "Laten we prachtige momenten vastleggen die je voor altijd zult koesteren. Neem vandaag contact met ons op om je fotosessie te boeken.",
+      "bookSession": "Boek Je Sessie",
+      "viewPackages": "Bekijk Pakketten"
+    }
+  },
+  "servicesPage": {
+    "ourServices": "Onze Diensten",
+    "title": "Fotografie",
+    "titleHighlight": "Pakketten",
+    "description": "Kies uit onze zorgvuldig samengestelde fotograﬁepakketten ontworpen om je kostbaarste momenten vast te leggen. Elke service omvat professionele bewerking en digitale levering.",
+    "duration": "Duur",
+    "includes": {
+      "highResPhotos": "hoge resolutie foto's",
+      "lightroomEditing": "Lightroom bewerking inbegrepen",
+      "onlineGallery": "Online galerie voor delen",
+      "outdoorGuidance": "Begeleiding buitenlocatie",
+      "outfitChange": "outfit wissel inbegrepen",
+      "onLocationSession": "Sessie op locatie",
+      "multiplePoses": "Meerdere poses en opstellingen",
+      "printsIncluded": "Afdrukken voor MUR 30 per foto",
+      "multipleLocations": "Meerdere locaties inbegrepen"
+    },
+    "bookPackage": "Boek Dit Pakket",
+    "addOns": {
+      "title": "Optionele",
+      "titleHighlight": "Extra's",
+      "description": "Verbeter je fotografieervaring met deze aanvullende services.",
+      "printing": "Afdrukken: MUR 30 per foto",
+      "additionalEditing": "Extra bewerking: MUR 500 per foto",
+      "rushDelivery": "Spoedlevering (24 uur): MUR 2.000"
+    },
+    "faq": {
+      "title": "Veelgestelde",
+      "titleHighlight": "Vragen",
+      "titleEnd": "",
+      "items": {
+        "booking": {
+          "question": "Hoe ver van tevoren moet ik boeken?",
+          "answer": "We raden aan je sessie 2-4 weken van tevoren te boeken, vooral tijdens piekseizoen en feestdagen, om je gewenste datum en tijd te verzekeren. We begrijpen echter dat plannen kunnen veranderen of speciale momenten onverwacht kunnen ontstaan. Als je een last-minute boeking nodig hebt, aarzel dan niet om contact met ons op te nemen—we doen ons best om je in te plannen wanneer mogelijk."
+        },
+        "weather": {
+          "question": "Wat gebeurt er als het regent tijdens onze buitensessie?",
+          "answer": "Het weer in Mauritius kan onvoorspelbaar zijn! We houden het weer nauwlettend in de gaten en zullen indien nodig herplannen zonder extra kosten."
+        },
+        "delivery": {
+          "question": "Hoe lang duurt het voordat ik mijn foto's ontvang?",
+          "answer": "Standaardlevering is 7-10 werkdagen. Spoedlevering (24-48 uur) is beschikbaar tegen een extra vergoeding."
+        },
+        "rawPhotos": {
+          "question": "Leveren jullie de ruwe/onbewerkte foto's?",
+          "answer": "We leveren professioneel bewerkte hoge resolutie afbeeldingen. Ruwe bestanden zijn niet inbegrepen in onze standaardpakketten."
+        }
+      }
+    },
+    "socialMedia": {
+      "title": "Social Media",
+      "titleHighlight": "Management", 
+      "description": "Professionele social media management diensten voor bedrijven en content creators. Gekwalificeerd en ervaren in het laten groeien van online aanwezigheid.",
+      "businesses": {
+        "title": "Voor Bedrijven",
+        "strategy": "Aangepaste strategie ontwikkeling",
+        "content": "Professionele content creatie en curatie",
+        "community": "Community management en betrokkenheid",
+        "analytics": "Performance tracking en analytische rapportage"
+      },
+      "creators": {
+        "title": "Voor Creators",
+        "branding": "Persoonlijke branding en visuele identiteit", 
+        "scheduling": "Content planning en optimalisatie",
+        "growth": "Groei en betrokkenheidsstrategieën",
+        "monetization": "Monetisatie en samenwerkingskansen"
+      },
+      "experience": {
+        "title": "Gekwalificeerd & Ervaren",
+        "description": "Met jaren ervaring in digitale marketing en social media management help ik bedrijven en creators hun online doelen te bereiken.",
+        "years": "Jaar Ervaring",
+        "clients": "Tevreden Klanten"
+      }
+    },
+    "cta": {
+      "title": "Klaar om Je",
+      "titleHighlight": "Sessie te Boeken?",
+      "description": "Laten we samen mooie herinneringen creëren. Neem vandaag contact met ons op voor een gratis consultatie.",
+      "getStarted": "Begin"
+    }
+  },
+  "aboutPage": {
+    "aboutUs": "Over Ons",
+    "title": "Over",
+    "titleHighlight": "Lion Kidz Photography",
+    "description": "Lion Kidz Photography is gevestigd in Royal Road, Malakoff, Mauritius, en biedt een unieke mix van landschap-, natuur- en portretfotografie.",
+    "established": "Sinds 2019",
+    "establishedText": "Opgericht",
+    "story": {
+      "title": "Onze",
+      "titleHighlight": "Fotografische",
+      "titleEnd": "Reis",
+      "paragraph1": "Opgericht in 2019, begon de reis met een eenvoudige mobiele telefoon en een diepe nieuwsgierigheid naar het vastleggen van 's werelds schoonheid. Sinds die vroege dagen heb ik mezelf toegewijd aan het beheersen van het vak—constant lerend door onderzoek, praktische bewerking en het verkennen van nieuwe technieken via tutorials.",
+      "paragraph2": "Wat Lion Kidz Photography echt onderscheidt is een toewijding aan Passie: Elke sessie wordt benaderd met oprechte enthousiasme en liefde voor storytelling door beelden.",
+      "paragraph3": "Geduld: Ik neem de tijd om elke klant's visie te begrijpen, ervoor zorgend dat elk detail doordacht wordt vastgelegd. Creativiteit: Elk project is een kans om iets onderscheidends te creëren, artistieke visie mixen met technische vaardigheid.",
+      "paragraph4": "Of je nu op zoek bent naar adembenemende landschappen, levendige natuurfoto's of tijdloze portretten, Lion Kidz Photography streeft ernaar beelden te leveren die zowel memorabel als betekenisvol zijn."
+    },
+    "achievements": {
+      "title": "Onze",
+      "titleHighlight": "Prestaties",
+      "description": "Cijfers die onze toewijding aan excellentie en het vertrouwen dat families in ons stellen weerspiegelen.",
+      "happyFamilies": "Gelukkige Families",
+      "yearsExperience": "Jaar Ervaring",
+      "awards": "Awards & Erkenning",
+      "satisfaction": "Tevredenheidspercentage"
+    },
+    "philosophy": {
+      "title": "Onze",
+      "titleHighlight": "Fotografische",
+      "titleEnd": "Filosofie",
+      "passion": {
+        "title": "Passie",
+        "description": "Elke sessie wordt benaderd met oprechte enthousiasme en liefde voor storytelling door beelden."
+      },
+      "patience": {
+        "title": "Geduld",
+        "description": "Ik neem de tijd om elke klant's visie te begrijpen, ervoor zorgend dat elk detail doordacht wordt vastgelegd."
+      },
+      "creativity": {
+        "title": "Creativiteit",
+        "description": "Elk project is een kans om iets onderscheidends te creëren, artistieke visie mixen met technische vaardigheid."
+      }
+    },
+    "cta": {
+      "title": "Laten We",
+      "titleHighlight": "Magie",
+      "titleEnd": "Samen Creëren",
+      "description": "Klaar om je familie's kostbare momenten vast te leggen? Ik zou je graag ontmoeten en samen mooie herinneringen creëren.",
+      "bookSession": "Boek een Sessie",
+      "viewPortfolio": "Bekijk Portfolio"
+    }
+  },
+  "contactPage": {
+    "getInTouch": "Neem Contact Op",
+    "title": "Laten We",
+    "titleHighlight": "Verbinden",
+    "description": "Klaar om mooie herinneringen vast te leggen? We horen graag van je! Neem vandaag contact met ons op om je fotografiebehoeften te bespreken en je sessie te boeken.",
+    "form": {
+      "title": "Stuur ons een",
+      "titleHighlight": "Bericht",
+      "fullName": "Volledige Naam",
+      "required": "*",
+      "email": "E-mailadres",
+      "phone": "Telefoonnummer",
+      "service": "Service Geïnteresseerd In",
+      "selectService": "Selecteer een service",
+      "other": "Anders",
+      "preferredDate": "Gewenste Datum",
+      "message": "Bericht",
+      "messagePlaceholder": "Vertel ons over je visie, speciale vereisten, of vragen die je hebt...",
+      "sendMessage": "Verstuur Bericht",
+      "success": {
+        "title": "Bericht Verzonden!",
+        "description": "Bedankt voor je aanvraag. We nemen binnen 24 uur contact met je op."
+      },
+      "error": {
+        "title": "Fout",
+        "description": "Vul alle verplichte velden in.",
+        "invalidEmail": "Voer een geldig e-mailadres in.",
+        "sendFailed": "Bericht verzenden mislukt. Probeer het opnieuw."
+      }
+    },
+    "info": {
+      "title": "Contact",
+      "titleHighlight": "Informatie",
+      "phone": "Telefoon & WhatsApp",
+      "email": "E-mail",
+      "location": "Locatie",
+      "hours": "Openingstijden",
+      "hoursDetails": ["Ma-Za: 9:00-18:00", "(Mauritius Tijd)"],
+      "guarantee": {
+        "title": "Snelle Reactie Garantie",
+        "description": "We begrijpen hoe opwindend het is om je fotosessie te plannen! Daarom garanderen we een reactie binnen 24 uur tijdens werkdagen.",
+        "usually": "Meestal binnen 2-4 uur!"
+      }
+    },
+    "faq": {
+      "title": "Veel Gestelde",
+      "titleHighlight": "Vragen",
+      "description": "Snelle antwoorden om je te helpen beginnen.",
+      "items": {
+        "booking": {
+          "question": "Hoe boek ik een sessie?",
+          "answer": "Vul gewoon het contactformulier hierboven in of bel/WhatsApp ons direct. We bespreken je behoeften en plannen je sessie."
+        },
+        "clothing": {
+          "question": "Wat moeten we dragen?",
+          "answer": "We bieden een gedetailleerde stylinggids na het boeken, met kleurcoördinatietips en outfit suggesties voor het hele gezin."
+        },
+        "travel": {
+          "question": "Reizen jullie voor sessies?",
+          "answer": "Ja! We reizen door heel Mauritius. Extra reiskosten kunnen van toepassing zijn voor locaties buiten het Malakoff gebied."
+        },
+        "cancellation": {
+          "question": "Wat is jullie annuleringsbeleid?",
+          "answer": "We begrijpen dat het leven gebeurt! Je kunt tot 48 uur voor je sessie herplannen zonder kosten."
+        }
+      }
+    }
+  }
+}

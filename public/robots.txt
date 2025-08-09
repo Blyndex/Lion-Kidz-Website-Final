@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://lionkidzphoto.mu/sitemap.xml
+
+# Disallow admin areas (if any)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow all important pages
+Allow: /portfolio/
+Allow: /services/
+Allow: /about/
+Allow: /contact/
+Allow: /testimonials/
+
+# Crawl delay for respectful crawling
+Crawl-delay: 1

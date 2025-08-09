@@ -1,0 +1,373 @@
+{
+  "nav": {
+    "home": "Home",
+    "portfolio": "Portfolio",
+    "services": "Servizi",
+    "about": "Chi siamo",
+    "contact": "Contattami",
+    "languages": "Lingue"
+  },
+  "hero": {
+    "capturing": "Catturando i Vostri",
+    "words": {
+      "memories": "Ricordi",
+      "littleLions": "Piccoli Leoni",
+      "adventures": "Avventure",
+      "preciousMoments": "Momenti Preziosi",
+      "smiles": "Sorrisi",
+      "joy": "Gioia"
+    },
+    "description": "Catturando momenti genuini di bambini, famiglie e amici nelle Mauritius—creando ricordi significativi e toccanti che custodirai per anni.",
+    "rating": "Valutato 5/5 da oltre 100 famiglie felici",
+    "viewPortfolio": "Vedi Portfolio",
+    "bookSession": "Prenota la Tua Sessione"
+  },
+  "about": {
+    "aboutMe": "Chi sono",
+    "welcomeTitle": "Benvenuto a",
+    "companyName": "Lion Kidz Photography",
+    "description1": "Lion Kidz Photography è un fotografo a Royal Road, Malakoff, Mauritius. Mi specializzo nel scattare foto di paesaggi, natura e ritratti.",
+    "description2": "È iniziato tutto nel 2019 quando ho iniziato a scattare foto con il mio cellulare. Da allora, ho lavorato sodo per migliorare facendo ricerche, modificando e guardando tutorial.",
+    "description3": "Ciò che distingue Lion Kidz Photography è la mia passione, pazienza e creatività.",
+    "location": "Royal Road, Malakoff, Mauritius",
+    "since": "Dal 2019",
+    "capturingMemories": "Catturando Ricordi",
+    "learnMore": "Scopri di più su di me"
+  },
+  "services": {
+    "title": "Cosa",
+    "titleHighlight": "Offriamo",
+    "subtitle": "Dai ritratti giocosi di bambini alle sessioni familiari toccanti, offriamo una gamma di servizi fotografici su misura per catturare i vostri momenti più preziosi.",
+    "items": {
+      "natureExperience": {
+        "title": "Esperienza Naturale",
+        "description": "Esplora location all'aperto mozzafiato con un fotografo professionista per catturare la bellezza naturale."
+      },
+      "classicPortraits": {
+        "title": "Ritratti Classici",
+        "description": "Ritratti senza tempo in studio o in location con styling professionale e direzione."
+      },
+      "essentialStory": {
+        "title": "Storia Essenziale",
+        "description": "Famiglia, fidanzamento o ritratti su misura per raccontare la vostra storia unica in modo bellissimo."
+      },
+      "signatureStory": {
+        "title": "Storia Distintiva",
+        "description": "Sessione estesa con più varietà, multiple location e copertura completa."
+      }
+    },
+    "learnMore": "Scopri di più →",
+    "viewAll": "Vedi tutti i servizi"
+  },
+  "languages": {
+    "en": "English",
+    "fr": "Français",
+    "es": "Español",
+    "it": "Italiano",
+    "nl": "Nederlands"
+  },
+  "featureBoxes": {
+    "title": "I Nostri",
+    "titleHighlight": "Valori",
+    "subtitle": "I principi fondamentali che guidano il nostro approccio nel catturare i vostri momenti più preziosi.",
+    "passion": {
+      "title": "Passione",
+      "description": "Ogni scatto riflette il nostro amore per catturare i bei momenti della vita"
+    },
+    "patience": {
+      "title": "Pazienza", 
+      "description": "Prendiamo il tempo necessario per catturare espressioni autentiche e naturali"
+    },
+    "creativity": {
+      "title": "Creatività",
+      "description": "Prospettive uniche e visione artistica in ogni fotografia"
+    },
+    "socialMedia": {
+      "title": "Gestione Social Media",
+      "description": "Servizi esperti e qualificati di gestione social media per migliorare la tua presenza online."
+    }
+  },
+  "socialMediaManagement": {
+    "title": "Gestione dei",
+    "titleHighlight": "Social Media",
+    "subtitle": "Gestione qualificata ed esperta dei social media per aziende e creator",
+    "photography": {
+      "title": "Integrazione Fotografica",
+      "description": "Combina fotografia straordinaria con contenuti strategici per massimizzare il tuo impatto visivo."
+    },
+    "growth": {
+      "title": "Strategia di Crescita",
+      "description": "Strategie basate sui dati per aumentare follower, engagement e riconoscimento del brand."
+    },
+    "engagement": {
+      "title": "Coinvolgimento della Community",
+      "description": "Costruisci connessioni significative con il tuo pubblico attraverso interazioni autentiche."
+    },
+    "cta": {
+      "title": "Pronto a Crescere?",
+      "description": "Trasformiamo insieme la tua presenza sui social media",
+      "experience": "Esperienza",
+      "years": "5+ Anni",
+      "button": "Inizia Oggi"
+    }
+  },
+  "portfolio": {
+    "title": "Il Nostro",
+    "titleHighlight": "Portfolio",
+    "subtitle": "Scopri la magia che creiamo attraverso il nostro obiettivo - momenti autentici catturati magnificamente.",
+    "viewFullPortfolio": "Vedi Portfolio Completo"
+  },
+  "testimonials": {
+    "title": "Cosa",
+    "titleHighlight": "Dicono",
+    "titleEnd": "i Clienti",
+    "subtitle": "Non prendere solo la nostra parola - ascolta dai clienti straordinari che hanno sperimentato Lion Kidz Photography.",
+    "readMore": "leggi di più",
+    "reviewBy": "Recensione di"
+  },
+  "instagram": {
+    "title": "Segui il Nostro Viaggio",
+    "description": "Rimani connesso con i nostri ultimi lavori e momenti dietro le quinte su Instagram",
+    "followButton": "Segui @dino_alexandre24"
+  },
+  "footer": {
+    "description": "Catturando momenti preziosi e creando bei ricordi per famiglie in tutto Mauritius. Specializzandoci in fotografia di bambini, famiglia ed eventi con un approccio giocoso ma professionale.",
+    "quickLinks": "Link Rapidi",
+    "getInTouch": "Mettiti in Contatto",
+    "businessHours": "Orari di Lavoro: Lun-Sab 9:00-18:00 (Orario Mauritius)",
+    "copyright": "© 2024 Lion Kidz Photography. Tutti i diritti riservati.",
+    "madeBy": "Realizzato da",
+    "privacyPolicy": "Politica sulla Privacy",
+    "termsOfService": "Termini di Servizio"
+  },
+  "portfolioPage": {
+    "title": "Il Nostro",
+    "titleHighlight": "Portfolio",
+    "description1": "Esplora la nostra collezione di bei momenti catturati in tutto Mauritius.",
+    "description2": "Ogni immagine racconta una storia unica di amore, gioia e ricordi preziosi.",
+    "professionalPhotography": "Fotografia Professionale",
+    "mauritiusBased": "Con Sede a Mauritius",
+    "filters": {
+      "all": "Tutto il Lavoro",
+      "kids": "Bambini",
+      "family": "Famiglia",
+      "events": "Eventi",
+      "newborn": "Neonato"
+    },
+    "items": {
+      "joyfulChildhood": "Momenti Gioiosi dell'Infanzia",
+      "beautifulFamily": "Bellissimo Ritratto di Famiglia",
+      "playfulAdventures": "Avventure Giocose",
+      "birthdayCelebration": "Celebrazione di Compleanno",
+      "familyLove": "Amore Familiare",
+      "preciousNewLife": "Preziosa Nuova Vita"
+    },
+    "cta": {
+      "title": "Pronto a Creare",
+      "titleHighlight": "La Tua Storia?",
+      "description": "Catturiamo bei momenti che custodirai per sempre. Contattaci oggi per prenotare la tua sessione fotografica.",
+      "bookSession": "Prenota la Tua Sessione",
+      "viewPackages": "Vedi i Pacchetti"
+    }
+  },
+  "servicesPage": {
+    "ourServices": "I Nostri Servizi",
+    "title": "Pacchetti",
+    "titleHighlight": "Fotografici",
+    "description": "Scegli tra i nostri pacchetti fotografici attentamente creati per catturare i tuoi momenti più preziosi. Ogni servizio include editing professionale e consegna digitale.",
+    "duration": "Durata",
+    "includes": {
+      "highResPhotos": "foto ad alta risoluzione",
+      "lightroomEditing": "Editing Lightroom incluso",
+      "onlineGallery": "Galleria online per condivisione",
+      "outdoorGuidance": "Guida per location all'aperto",
+      "outfitChange": "cambio outfit incluso",
+      "onLocationSession": "Sessione in location",
+      "multiplePoses": "Pose e configurazioni multiple",
+      "printsIncluded": "Stampe a MUR 30 per foto",
+      "multipleLocations": "Location multiple incluse"
+    },
+    "bookPackage": "Prenota Questo Pacchetto",
+    "addOns": {
+      "title": "Opzioni",
+      "titleHighlight": "Aggiuntive",
+      "description": "Migliora la tua esperienza fotografica con questi servizi aggiuntivi.",
+      "printing": "Stampa: MUR 30 per foto",
+      "additionalEditing": "Editing aggiuntivo: MUR 500 per foto",
+      "rushDelivery": "Consegna urgente (24 ore): MUR 2.000"
+    },
+    "faq": {
+      "title": "Domande",
+      "titleHighlight": "Frequenti",
+      "titleEnd": "",
+      "items": {
+        "booking": {
+          "question": "Con quanto anticipo devo prenotare?",
+          "answer": "Raccomandiamo di prenotare la tua sessione con 2-4 settimane di anticipo, specialmente durante le stagioni di punta e le vacanze, per assicurarti la data e l'ora preferite. Tuttavia, capiamo che i piani possono cambiare o momenti speciali possono sorgere inaspettatamente. Se hai bisogno di una prenotazione last-minute, non esitare a contattarci—faremo del nostro meglio per accoglierti quando possibile."
+        },
+        "weather": {
+          "question": "Cosa succede se piove durante la nostra sessione all'aperto?",
+          "answer": "Il tempo a Mauritius può essere imprevedibile! Monitoriamo il tempo attentamente e riprogrammeremo se necessario senza costi aggiuntivi."
+        },
+        "delivery": {
+          "question": "Quanto tempo prima di ricevere le mie foto?",
+          "answer": "La consegna standard è di 7-10 giorni lavorativi. La consegna urgente (24-48 ore) è disponibile con una tariffa aggiuntiva."
+        },
+        "rawPhotos": {
+          "question": "Fornite le foto grezze/non editate?",
+          "answer": "Forniamo immagini ad alta risoluzione editate professionalmente. I file grezzi non sono inclusi nei nostri pacchetti standard."
+        }
+      }
+    },
+    "socialMedia": {
+      "title": "Gestione dei",
+      "titleHighlight": "Social Media",
+      "description": "Servizi professionali di gestione dei social media per aziende e creator di contenuti. Qualificato ed esperto nella crescita della presenza online.",
+      "businesses": {
+        "title": "Per le Aziende",
+        "strategy": "Sviluppo di strategia personalizzata",
+        "content": "Creazione e cura di contenuti professionali",
+        "community": "Gestione e coinvolgimento della community",
+        "analytics": "Tracking delle performance e report analitici"
+      },
+      "creators": {
+        "title": "Per i Creator",
+        "branding": "Branding personale e identità visiva",
+        "scheduling": "Programmazione e ottimizzazione dei contenuti",
+        "growth": "Strategie di crescita e coinvolgimento",
+        "monetization": "Monetizzazione e opportunità di collaborazione"
+      },
+      "experience": {
+        "title": "Qualificato ed Esperto",
+        "description": "Con anni di esperienza nel digital marketing e gestione dei social media, aiuto aziende e creator a raggiungere i loro obiettivi online.",
+        "years": "Anni di Esperienza",
+        "clients": "Clienti Felici"
+      }
+    },
+    "cta": {
+      "title": "Pronto a Prenotare la Tua",
+      "titleHighlight": "Sessione?",
+      "description": "Creiamo bei ricordi insieme. Contattaci oggi per una consulenza gratuita.",
+      "getStarted": "Inizia"
+    }
+  },
+  "aboutPage": {
+    "aboutUs": "Chi Siamo",
+    "title": "Chi è",
+    "titleHighlight": "Lion Kidz Photography",
+    "description": "Lion Kidz Photography ha sede a Royal Road, Malakoff, Mauritius, offrendo un mix unico di fotografia di paesaggi, natura e ritratti.",
+    "established": "Dal 2019",
+    "establishedText": "Fondato",
+    "story": {
+      "title": "Il Nostro",
+      "titleHighlight": "Viaggio",
+      "titleEnd": "Fotografico",
+      "paragraph1": "Fondato nel 2019, il viaggio è iniziato con un semplice telefono cellulare e una profonda curiosità per catturare la bellezza del mondo. Da quei primi giorni, mi sono dedicato a padroneggiare l'arte—imparando costantemente attraverso ricerca, editing pratico ed esplorando nuove tecniche tramite tutorial.",
+      "paragraph2": "Ciò che distingue veramente Lion Kidz Photography è un impegno verso la Passione: Ogni sessione è affrontata con entusiasmo genuino e amore per raccontare storie attraverso le immagini.",
+      "paragraph3": "Pazienza: Mi prendo il tempo per comprendere la visione di ogni cliente, assicurando che ogni dettaglio sia catturato con attenzione. Creatività: Ogni progetto è un'opportunità per creare qualcosa di distintivo, mescolando visione artistica con abilità tecnica.",
+      "paragraph4": "Che tu stia cercando paesaggi mozzafiato, foto di natura vibranti o ritratti senza tempo, Lion Kidz Photography si sforza di consegnare immagini che siano sia memorabili che significative."
+    },
+    "achievements": {
+      "title": "I Nostri",
+      "titleHighlight": "Risultati",
+      "description": "Numeri che riflettono il nostro impegno verso l'eccellenza e la fiducia che le famiglie ripongono in noi.",
+      "happyFamilies": "Famiglie Felici",
+      "yearsExperience": "Anni di Esperienza",
+      "awards": "Premi e Riconoscimenti",
+      "satisfaction": "Tasso di Soddisfazione"
+    },
+    "philosophy": {
+      "title": "La Nostra",
+      "titleHighlight": "Filosofia",
+      "titleEnd": "Fotografica",
+      "passion": {
+        "title": "Passione",
+        "description": "Ogni sessione è affrontata con entusiasmo genuino e amore per raccontare storie attraverso le immagini."
+      },
+      "patience": {
+        "title": "Pazienza",
+        "description": "Mi prendo il tempo per comprendere la visione di ogni cliente, assicurando che ogni dettaglio sia catturato con attenzione."
+      },
+      "creativity": {
+        "title": "Creatività",
+        "description": "Ogni progetto è un'opportunità per creare qualcosa di distintivo, mescolando visione artistica con abilità tecnica."
+      }
+    },
+    "cta": {
+      "title": "Creiamo",
+      "titleHighlight": "Magia",
+      "titleEnd": "Insieme",
+      "description": "Pronto a catturare i momenti preziosi della tua famiglia? Mi piacerebbe incontrarti e creare bei ricordi insieme.",
+      "bookSession": "Prenota una Sessione",
+      "viewPortfolio": "Vedi Portfolio"
+    }
+  },
+  "contactPage": {
+    "getInTouch": "Mettiti in Contatto",
+    "title": "Connettiamoci",
+    "titleHighlight": "",
+    "description": "Pronto a catturare bei ricordi? Ci piacerebbe sentirti! Contattaci oggi per discutere le tue esigenze fotografiche e prenotare la tua sessione.",
+    "form": {
+      "title": "Inviaci un",
+      "titleHighlight": "Messaggio",
+      "fullName": "Nome Completo",
+      "required": "*",
+      "email": "Indirizzo Email",
+      "phone": "Numero di Telefono",
+      "service": "Servizio di Interesse",
+      "selectService": "Seleziona un servizio",
+      "other": "Altro",
+      "preferredDate": "Data Preferita",
+      "message": "Messaggio",
+      "messagePlaceholder": "Parlaci della tua visione, requisiti speciali, o qualsiasi domanda tu abbia...",
+      "sendMessage": "Invia Messaggio",
+      "success": {
+        "title": "Messaggio Inviato!",
+        "description": "Grazie per la tua richiesta. Ti risponderemo entro 24 ore."
+      },
+      "error": {
+        "title": "Errore",
+        "description": "Si prega di compilare tutti i campi obbligatori.",
+        "invalidEmail": "Si prega di inserire un indirizzo email valido.",
+        "sendFailed": "Impossibile inviare il messaggio. Riprova."
+      }
+    },
+    "info": {
+      "title": "Informazioni di",
+      "titleHighlight": "Contatto",
+      "phone": "Telefono e WhatsApp",
+      "email": "Email",
+      "location": "Posizione",
+      "hours": "Orari di Lavoro",
+      "hoursDetails": ["Lun-Sab: 9:00-18:00", "(Orario Mauritius)"],
+      "guarantee": {
+        "title": "Garanzia di Risposta Rapida",
+        "description": "Capiamo quanto sia emozionante pianificare la tua sessione fotografica! Ecco perché garantiamo una risposta entro 24 ore durante i giorni lavorativi.",
+        "usually": "Di solito entro 2-4 ore!"
+      }
+    },
+    "faq": {
+      "title": "Domande",
+      "titleHighlight": "Comuni",
+      "description": "Risposte rapide per aiutarti a iniziare.",
+      "items": {
+        "booking": {
+          "question": "Come prenoto una sessione?",
+          "answer": "Compila semplicemente il modulo di contatto sopra o chiamaci/mandaci un WhatsApp direttamente. Discuteremo le tue esigenze e programmeremo la tua sessione."
+        },
+        "clothing": {
+          "question": "Cosa dovremmo indossare?",
+          "answer": "Forniamo una guida di stile dettagliata dopo la prenotazione, con consigli di coordinamento colori e suggerimenti di outfit per tutta la famiglia."
+        },
+        "travel": {
+          "question": "Viaggiate per le sessioni?",
+          "answer": "Sì! Viaggiamo in tutto Mauritius. Potrebbero applicarsi costi di viaggio aggiuntivi per location fuori dall'area di Malakoff."
+        },
+        "cancellation": {
+          "question": "Qual è la vostra politica di cancellazione?",
+          "answer": "Capiamo che la vita accade! Puoi riprogrammare fino a 48 ore prima della tua sessione senza costi."
+        }
+      }
+    }
+  }
+}
