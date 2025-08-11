@@ -325,11 +325,11 @@ const Portfolio = () => {
       />
 
       {/* Header Layout with Back Link */}
-      <section className="bg-gradient-to-r from-gray-800 via-gray-900 to-gray-800 py-16 md:py-24">
+      <section className="bg-gradient-to-br from-gray-800 to-gray-900 py-20">
         <div className="container mx-auto px-4">
           {/* Back Link */}
           <div className="mb-8">
-            <BackLink to="/" label={t('nav.backToHome') || 'Back to Home'} />
+            <BackLink to="/" label="" />
           </div>
           
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">

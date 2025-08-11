@@ -339,15 +339,15 @@
       "email": "Email",
       "location": "Location",
       "hours": "Business Hours",
-      "hoursDetails": ["Mon-Sat: 9AM-6PM", "(Mauritius Time)"],
+      "hoursDetails": "9-5 Monday to Friday to arrange bookings",
       "guarantee": {
-        "title": "Quick Response Guarantee",
-        "description": "We understand how exciting it is to plan your photography session! That's why we guarantee a response within 24 hours during business days.",
-        "usually": "Usually within 2-4 hours!"
+        "title": "Business Hours",
+        "description": "Monday to Saturday: 9:00 AM - 6:00 PM (Mauritius Time). We're closed on Sundays and public holidays.",
+        "usually": "Quick response guaranteed!"
       }
     },
     "faq": {
-      "title": "Common",
+      "title": "Frequently Asked",
       "titleHighlight": "Questions",
       "description": "Quick answers to help you get started.",
       "items": {
@@ -361,7 +361,7 @@
         },
         "travel": {
           "question": "Do you travel for sessions?",
-          "answer": "Yes! We travel throughout Mauritius. Additional travel fees may apply for locations outside the Malakoff area."
+          "answer": "Yes! We travel throughout Mauritius. Additional travel fees may apply for locations outside the Grand Port area."
         },
         "cancellation": {
           "question": "What's your cancellation policy?",

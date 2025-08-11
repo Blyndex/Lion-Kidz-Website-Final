@@ -101,22 +101,38 @@ const Footer = () => {
             <h3 className="font-alegreya text-xl text-brand-lime mb-4 font-bold">Get in Touch</h3>
             <div className="space-y-3 font-alegreya">
               <div className="flex items-center space-x-3">
-                <Phone className="h-5 w-5 text-brand-pink" />
-                <a href="tel:+230-5281-8488" className="text-gray-300 hover:text-brand-lime transition-colors">
+                <Phone 
+                  className="h-5 w-5 text-brand-pink cursor-pointer hover:text-brand-lime transition-colors" 
+                  onClick={() => window.open('https://wa.me/23052818488', '_blank')}
+                />
+                <a href="https://wa.me/23052818488" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-brand-lime transition-colors">
                   +230 5281 8488
                 </a>
               </div>
               <div className="flex items-center space-x-3">
-                <Mail className="h-5 w-5 text-brand-pink" />
-                <a href="mailto:Lionkidz636@gmail.com" className="text-gray-300 hover:text-brand-lime transition-colors">
+                <Mail 
+                  className="h-5 w-5 text-brand-pink cursor-pointer hover:text-brand-lime transition-colors" 
+                  onClick={() => window.open('https://mail.google.com/mail/?view=cm&fs=1&to=Lionkidz636@gmail.com&su=Photography%20Inquiry&body=Hi%20Lion%20Kidz%20Photography%2C%0A%0AI%20would%20like%20to%20inquire%20about%20your%20photography%20services.%0A%0APlease%20contact%20me%20back.%0A%0ABest%20regards', '_blank')}
+                />
+                <a 
+                  href="#" 
+                  className="text-gray-300 hover:text-brand-lime transition-colors cursor-pointer"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.open('https://mail.google.com/mail/?view=cm&fs=1&to=Lionkidz636@gmail.com&su=Photography%20Inquiry&body=Hi%20Lion%20Kidz%20Photography%2C%0A%0AI%20would%20like%20to%20inquire%20about%20your%20photography%20services.%0A%0APlease%20contact%20me%20back.%0A%0ABest%20regards', '_blank');
+                  }}
+                >
                   Lionkidz636@gmail.com
                 </a>
               </div>
               <div className="flex items-start space-x-3">
-                <MapPin className="h-5 w-5 text-brand-pink mt-1" />
-                <span className="text-gray-300">
+                <MapPin 
+                  className="h-5 w-5 text-brand-pink mt-1 cursor-pointer hover:text-brand-lime transition-colors" 
+                  onClick={() => window.open('https://maps.google.com/?q=Royal+Road+Malakoff+Mauritius', '_blank')}
+                />
+                <a href="https://maps.google.com/?q=Royal+Road+Malakoff+Mauritius" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-brand-lime transition-colors">
                   Royal Road, Malakoff, Mauritius
-                </span>
+                </a>
               </div>
               <p className="text-sm text-gray-400 mt-4">
                 Business Hours: Mon-Sat 9AM-6PM (Mauritius Time)
@@ -128,10 +144,10 @@ const Footer = () => {
         <div className="border-t border-gray-700 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <div className="flex flex-col md:flex-row items-center space-y-2 md:space-y-0 md:space-x-4">
             <p className="font-alegreya text-gray-400 text-sm">
-              © 2024 Lion Kidz Photography. All rights reserved.
+              © 2025 Lion Kidz Photography. All rights reserved.
             </p>
             <p className="font-alegreya text-gray-400 text-sm">
-              Made by <span className="text-brand-lime font-semibold">Blyndex</span>
+              Made by <span className="text-brand-lime font-semibold">Blyndex</span><span className="text-gray-400">.</span>
             </p>
           </div>
           <div className="flex space-x-6 mt-4 md:mt-0">

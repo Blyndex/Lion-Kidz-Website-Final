@@ -60,7 +60,7 @@
     "viewAll": "Ver todos los servicios"
   },
   "languages": {
-    "en": "English",
+    "en": "Inglés",
     "fr": "Français",
     "es": "Español",
     "it": "Italiano",
@@ -339,16 +339,16 @@
       "email": "Correo Electrónico",
       "location": "Ubicación",
       "hours": "Horario de Atención",
-      "hoursDetails": ["Lun-Sáb: 9AM-6PM", "(Hora de Mauricio)"],
+      "hoursDetails": "9-5 Lunes a Viernes para organizar reservas",
       "guarantee": {
-        "title": "Garantía de Respuesta Rápida",
-        "description": "¡Entendemos lo emocionante que es planificar tu sesión fotográfica! Por eso garantizamos una respuesta dentro de 24 horas durante días hábiles.",
-        "usually": "¡Usualmente dentro de 2-4 horas!"
+        "title": "Horario de Atención",
+        "description": "Lunes a Sábado: 9:00 AM - 6:00 PM (Hora de Mauricio). Cerramos los domingos y días festivos.",
+        "usually": "¡Respuesta rápida garantizada!"
       }
     },
     "faq": {
-      "title": "Preguntas",
-      "titleHighlight": "Comunes",
+      "title": "Preguntas Frecuentemente",
+      "titleHighlight": "Hechas",
       "description": "Respuestas rápidas para ayudarte a comenzar.",
       "items": {
         "booking": {
@@ -361,7 +361,7 @@
         },
         "travel": {
           "question": "¿Viajan para las sesiones?",
-          "answer": "¡Sí! Viajamos por todo Mauricio. Pueden aplicar tarifas de viaje adicionales para ubicaciones fuera del área de Malakoff."
+          "answer": "¡Sí! Viajamos por todo Mauricio. Pueden aplicar tarifas de viaje adicionales para ubicaciones fuera del área de Grand Port."
         },
         "cancellation": {
           "question": "¿Cuál es su política de cancelación?",

@@ -2,6 +2,7 @@
 import { Camera, Users, Calendar, Heart, Check, Star } from 'lucide-react';
 import { NavLink } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
+import BackLink from '../components/BackLink';
 import MetaTags from '../components/SEO/MetaTags';
 import { getServiceStructuredData } from '../components/SEO/StructuredData';
 
@@ -84,17 +85,24 @@ const Services = () => {
       />
       {/* Header */}
       <section className="bg-gradient-to-br from-gray-800 to-gray-900 py-20">
-        <div className="container mx-auto px-4 text-center">
-          <div className="flex items-center justify-center space-x-2 mb-4">
-            <Star className="h-8 w-8 text-brand-pink" />
-          <span className="font-alegreya text-brand-pink font-medium">{t('servicesPage.ourServices')}</span>
-        </div>
-        <h1 className="font-alegreya text-4xl md:text-6xl text-white mb-6 font-bold">
-          {t('servicesPage.title')} <span className="text-brand-lime">{t('servicesPage.titleHighlight')}</span>
-        </h1>
-        <p className="font-alegreya text-xl text-gray-300 max-w-3xl mx-auto">
-          {t('servicesPage.description')}
-        </p>
+        <div className="container mx-auto px-4">
+          {/* Back Link */}
+          <div className="mb-8">
+            <BackLink to="/" label="" />
+          </div>
+          
+          <div className="text-center">
+            <div className="flex items-center justify-center space-x-2 mb-4">
+              <Star className="h-8 w-8 text-brand-pink" />
+              <span className="font-alegreya text-brand-pink font-medium">{t('servicesPage.ourServices')}</span>
+            </div>
+            <h1 className="font-alegreya text-4xl md:text-6xl text-white mb-6 font-bold">
+              {t('servicesPage.title')} <span className="text-brand-lime">{t('servicesPage.titleHighlight')}</span>
+            </h1>
+            <p className="font-alegreya text-xl text-gray-300 max-w-3xl mx-auto">
+              {t('servicesPage.description')}
+            </p>
+          </div>
         </div>
       </section>
 

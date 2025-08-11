@@ -3,6 +3,7 @@ import { useState } from 'react';
 import { Phone, Mail, MapPin, Clock, Send, Camera } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import { useTranslation } from 'react-i18next';
+import BackLink from '../components/BackLink';
 import { sendToDiscord } from '../lib/discord-webhook';
 import MetaTags from '../components/SEO/MetaTags';
 
@@ -129,17 +130,24 @@ const Contact = () => {
       />
       {/* Header */}
       <section className="bg-gradient-to-br from-gray-800 to-gray-900 py-20">
-        <div className="container mx-auto px-4 text-center">
-          <div className="flex items-center justify-center space-x-2 mb-4">
-            <Send className="h-8 w-8 text-brand-pink" />
-            <span className="font-alegreya text-brand-pink font-medium">{t('contactPage.getInTouch')}</span>
+        <div className="container mx-auto px-4">
+          {/* Back Link */}
+          <div className="mb-8">
+            <BackLink to="/" label="" />
           </div>
-          <h1 className="font-alegreya text-4xl md:text-6xl text-white mb-6 font-bold">
-            {t('contactPage.title')} <span className="text-brand-lime">{t('contactPage.titleHighlight')}</span>
-          </h1>
-          <p className="font-alegreya text-xl text-gray-300 max-w-3xl mx-auto">
-            {t('contactPage.description')}
-          </p>
+          
+          <div className="text-center">
+            <div className="flex items-center justify-center space-x-2 mb-4">
+              <Send className="h-8 w-8 text-brand-pink" />
+              <span className="font-alegreya text-brand-pink font-medium">{t('contactPage.getInTouch')}</span>
+            </div>
+            <h1 className="font-alegreya text-4xl md:text-6xl text-white mb-6 font-bold">
+              {t('contactPage.title')} <span className="text-brand-lime">{t('contactPage.titleHighlight')}</span>
+            </h1>
+            <p className="font-alegreya text-xl text-gray-300 max-w-3xl mx-auto">
+              {t('contactPage.description')}
+            </p>
+          </div>
         </div>
       </section>
 
@@ -300,7 +308,18 @@ const Contact = () => {
               <div className="space-y-8">
                 {contactInfo.map((info, index) => (
                   <div key={index} className="flex items-start space-x-4">
-                    <div className={`w-12 h-12 bg-${info.color} rounded-lg flex items-center justify-center flex-shrink-0`}>
+                    <div 
+                      className={`w-12 h-12 bg-${info.color} rounded-lg flex items-center justify-center flex-shrink-0 cursor-pointer hover:opacity-80 transition-opacity`}
+                      onClick={() => {
+                        if (info.title === t('contactPage.info.phone')) {
+                          window.open('https://wa.me/23052818488', '_blank');
+                        } else if (info.title === t('contactPage.info.email')) {
+                          window.open('https://mail.google.com/mail/?view=cm&fs=1&to=Lionkidz636@gmail.com&su=Photography%20Inquiry&body=Hi%20Lion%20Kidz%20Photography%2C%0A%0AI%20would%20like%20to%20inquire%20about%20your%20photography%20services.%0A%0APlease%20contact%20me%20back.%0A%0ABest%20regards', '_blank');
+                        } else if (info.title === t('contactPage.info.location')) {
+                          window.open('https://maps.google.com/?q=Royal+Road+Malakoff+Mauritius', '_blank');
+                        }
+                      }}
+                    >
                       <info.icon className="h-6 w-6 text-brand-darkGray" />
                     </div>
                     <div>
@@ -308,9 +327,34 @@ const Contact = () => {
                         {info.title}
                       </h3>
                       {Array.isArray(info.details) ? info.details.map((detail, idx) => (
-                        <p key={idx} className="font-alegreya text-gray-300">
-                          {detail}
-                        </p>
+                        info.title === t('contactPage.info.email') ? (
+                          <p key={idx} className="font-alegreya text-gray-300">
+                            <a 
+                              href="#" 
+                              className="hover:text-brand-lime transition-colors cursor-pointer"
+                              onClick={(e) => {
+                                e.preventDefault();
+                                window.open('https://mail.google.com/mail/?view=cm&fs=1&to=Lionkidz636@gmail.com&su=Photography%20Inquiry&body=Hi%20Lion%20Kidz%20Photography%2C%0A%0AI%20would%20like%20to%20inquire%20about%20your%20photography%20services.%0A%0APlease%20contact%20me%20back.%0A%0ABest%20regards', '_blank');
+                              }}
+                            >
+                              {detail}
+                            </a>
+                          </p>
+                        ) : (
+                          <p key={idx} className="font-alegreya text-gray-300">
+                            {info.title === t('contactPage.info.phone') ? (
+                              <a href="https://wa.me/23052818488" target="_blank" rel="noopener noreferrer" className="hover:text-brand-lime transition-colors">
+                                {detail}
+                              </a>
+                            ) : info.title === t('contactPage.info.location') ? (
+                              <a href="https://maps.google.com/?q=Royal+Road+Malakoff+Mauritius" target="_blank" rel="noopener noreferrer" className="hover:text-brand-lime transition-colors">
+                                {detail}
+                              </a>
+                            ) : (
+                              detail
+                            )}
+                          </p>
+                        )
                       )) : (
                         <p className="font-alegreya text-gray-300">
                           {info.details}

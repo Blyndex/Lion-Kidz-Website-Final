@@ -60,7 +60,7 @@
     "viewAll": "Vedi tutti i servizi"
   },
   "languages": {
-    "en": "English",
+    "en": "Inglese",
     "fr": "Français",
     "es": "Español",
     "it": "Italiano",
@@ -339,16 +339,16 @@
       "email": "Email",
       "location": "Posizione",
       "hours": "Orari di Lavoro",
-      "hoursDetails": ["Lun-Sab: 9:00-18:00", "(Orario Mauritius)"],
+      "hoursDetails": "9-17 Lunedì a Venerdì per organizzare prenotazioni",
       "guarantee": {
-        "title": "Garanzia di Risposta Rapida",
-        "description": "Capiamo quanto sia emozionante pianificare la tua sessione fotografica! Ecco perché garantiamo una risposta entro 24 ore durante i giorni lavorativi.",
-        "usually": "Di solito entro 2-4 ore!"
+        "title": "Orari di Lavoro",
+        "description": "Lunedì a Sabato: 9:00 - 18:00 (Orario Mauritius). Siamo chiusi la domenica e nei giorni festivi.",
+        "usually": "Risposta rapida garantita!"
       }
     },
     "faq": {
-      "title": "Domande",
-      "titleHighlight": "Comuni",
+      "title": "Domande Frequenti",
+      "titleHighlight": "",
       "description": "Risposte rapide per aiutarti a iniziare.",
       "items": {
         "booking": {
@@ -361,7 +361,7 @@
         },
         "travel": {
           "question": "Viaggiate per le sessioni?",
-          "answer": "Sì! Viaggiamo in tutto Mauritius. Potrebbero applicarsi costi di viaggio aggiuntivi per location fuori dall'area di Malakoff."
+          "answer": "Sì! Viaggiamo in tutto Mauritius. Potrebbero applicarsi costi di viaggio aggiuntivi per location fuori dall'area di Grand Port."
         },
         "cancellation": {
           "question": "Qual è la vostra politica di cancellazione?",

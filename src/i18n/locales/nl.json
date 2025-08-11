@@ -60,7 +60,7 @@
     "viewAll": "Bekijk alle diensten"
   },
   "languages": {
-    "en": "English",
+    "en": "Engels",
     "fr": "Français",
     "es": "Español",
     "it": "Italiano",
@@ -339,11 +339,11 @@
       "email": "E-mail",
       "location": "Locatie",
       "hours": "Openingstijden",
-      "hoursDetails": ["Ma-Za: 9:00-18:00", "(Mauritius Tijd)"],
+      "hoursDetails": "9-17 Maandag tot Vrijdag om boekingen te regelen",
       "guarantee": {
-        "title": "Snelle Reactie Garantie",
-        "description": "We begrijpen hoe opwindend het is om je fotosessie te plannen! Daarom garanderen we een reactie binnen 24 uur tijdens werkdagen.",
-        "usually": "Meestal binnen 2-4 uur!"
+        "title": "Openingstijden",
+        "description": "Maandag tot Zaterdag: 9:00 - 18:00 (Mauritius Tijd). We zijn gesloten op zondagen en feestdagen.",
+        "usually": "Snelle reactie gegarandeerd!"
       }
     },
     "faq": {
@@ -361,7 +361,7 @@
         },
         "travel": {
           "question": "Reizen jullie voor sessies?",
-          "answer": "Ja! We reizen door heel Mauritius. Extra reiskosten kunnen van toepassing zijn voor locaties buiten het Malakoff gebied."
+          "answer": "Ja! We reizen door heel Mauritius. Extra reiskosten kunnen van toepassing zijn voor locaties buiten het Grand Port gebied."
         },
         "cancellation": {
           "question": "Wat is jullie annuleringsbeleid?",

@@ -87,7 +87,7 @@ const About = () => {
         <div className="container mx-auto px-4">
           {/* Back Link */}
           <div className="mb-8">
-            <BackLink to="/" label={t('nav.backToHome') || 'Back to Home'} />
+            <BackLink to="/" label="" />
           </div>
           
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">

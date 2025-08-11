@@ -60,7 +60,7 @@
     "viewAll": "Voir tous les services"
   },
   "languages": {
-    "en": "English",
+    "en": "Anglais",
     "fr": "Français",
     "es": "Español",
     "it": "Italiano",
@@ -339,16 +339,16 @@
       "email": "E-mail",
       "location": "Localisation",
       "hours": "Heures d'Ouverture",
-      "hoursDetails": ["Lun-Sam : 9h-18h", "(Heure de Maurice)"],
+      "hoursDetails": "9h-17h Lundi à Vendredi pour organiser les réservations",
       "guarantee": {
-        "title": "Garantie de Réponse Rapide",
-        "description": "Nous comprenons à quel point il est excitant de planifier votre séance photo ! C'est pourquoi nous garantissons une réponse dans les 24 heures pendant les jours ouvrables.",
-        "usually": "Habituellement dans les 2-4 heures !"
+        "title": "Heures d'Ouverture",
+        "description": "Lundi à Samedi : 9h00 - 18h00 (Heure de Maurice). Nous sommes fermés les dimanches et jours fériés.",
+        "usually": "Réponse rapide garantie !"
       }
     },
     "faq": {
-      "title": "Questions",
-      "titleHighlight": "Courantes",
+      "title": "Questions Fréquemment",
+      "titleHighlight": "Posées",
       "description": "Réponses rapides pour vous aider à commencer.",
       "items": {
         "booking": {
@@ -361,7 +361,7 @@
         },
         "travel": {
           "question": "Vous déplacez-vous pour les séances ?",
-          "answer": "Oui ! Nous nous déplaçons partout à Maurice. Des frais de déplacement supplémentaires peuvent s'appliquer pour les lieux en dehors de la région de Malakoff."
+          "answer": "Oui ! Nous nous déplaçons partout à Maurice. Des frais de déplacement supplémentaires peuvent s'appliquer pour les lieux en dehors de la région de Grand Port."
         },
         "cancellation": {
           "question": "Quelle est votre politique d'annulation ?",
